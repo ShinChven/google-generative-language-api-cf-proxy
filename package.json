@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "devDependencies": {
     "jest": "^29.7.0",
-    "wrangler": "3.22.1"
+    "wrangler": "3.80.4"
   },
   "private": true,
   "scripts": {
